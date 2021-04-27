@@ -21,7 +21,8 @@ Check brew.sh if there are any issues, command could’ve been changed
 	gpg
 	postgres
 $brew services start postgresql
-$createdb ```
+$createdb
+```
 
 ## RVM
 - New command for RVM (new maintainer)
@@ -30,8 +31,9 @@ $createdb ```
 
 ```\curl -sSL https://get.rvm.io | bash -s stable --rails```
 
+to check version of rvm and ensure it installed correctly
 ```$rvm -v ```
-to check version
+
 
 ## Install Ruby and Rails
 
