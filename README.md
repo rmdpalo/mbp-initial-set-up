@@ -1,6 +1,18 @@
 # mbp-initial-set-up
 A repo to help anyone set up a dev environment on a new macbook
 
+This includes:
+- slack
+- postman
+- vs code
+- zoom
+- pgadmin4
+- git
+- yarn
+- zsh
+- gpg
+- postgresql
+
 ## Apps 
 ```
 $brew install —cask
