@@ -15,7 +15,9 @@ This includes:
 
 ## Apps 
 ```
-$brew install —cask
+$brew install —cask appname
+
+appnames:
 	slack
 	postman
 	visual-studio-code
@@ -27,6 +29,8 @@ Check brew.sh if there are any issues, command could’ve been changed
 
 ## Tech
 ```$brew install 
+
+run the above command with each word below:
 	git
 	yarn
 	zsh
